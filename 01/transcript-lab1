@@ -1,0 +1,32 @@
+
+;Unspecified return value
+
+1 ]=> 
+
+[Entering #[compound-procedure 14 pigl]
+    Args: jennita]
+[Entering #[compound-procedure 14 pigl]
+    Args: ennitaj]
+[ennitajay
+      <== #[compound-procedure 14 pigl]
+    Args: ennitaj]
+[ennitajay
+      <== #[compound-procedure 14 pigl]
+    Args: jennita]
+;Value: ennitajay
+
+1 ]=> 
+
+[Entering #[compound-procedure 14 pigl]
+    Args: dannito]
+[Entering #[compound-procedure 14 pigl]
+    Args: annitod]
+[annitoday
+      <== #[compound-procedure 14 pigl]
+    Args: annitod]
+[annitoday
+      <== #[compound-procedure 14 pigl]
+    Args: dannito]
+;Value: annitoday
+
+1 ]=> 
